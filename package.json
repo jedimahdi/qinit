@@ -1,7 +1,7 @@
 {
   "name": "qinit",
   "version": "1.0.0",
-  "description": "create apps for quera",
+  "description": "Create boilerplate projects for Quera",
   "main": "index.js",
   "bin": {
     "qinit": "./src/index.js"
